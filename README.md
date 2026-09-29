@@ -187,5 +187,5 @@ ev_dash/
 
 ## 👤 Author
 
-**[Tiya kumari]**
+**[Yash Kumar Sen]**
 Emertxe Automotive Embedded Internship — 2026
